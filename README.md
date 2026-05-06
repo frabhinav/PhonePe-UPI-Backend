@@ -1,4 +1,4 @@
-# PhonePe MERN Clone (Backend Only)
+# PhonePe Clone (Backend Only)
 
 A simple, easy-to-understand Backend for a PhonePe clone project. This system is heavily commented and uses beginner-friendly architectures while simulating a real-world FinTech application environment.
 
