@@ -54,10 +54,10 @@ npm run seed
 ```
 
 **What gets seeded?**
-- `amit@example.com` (Phone: 9876543210 | UPI: amit123@phonepe | Bal: 5000)
-- `priya@example.com` (Phone: 9876543211 | UPI: priya456@phonepe | Bal: 3000)
-- `rahul@example.com` (Phone: 9876543212 | UPI: rahul789@phonepe | Bal: 1500)
-- `neha@example.com` (Phone: 9876543213 | UPI: neha012@phonepe | Bal: 8000)
+- `amit@example.com` (Phone: 9080908090 | UPI: amit@phonepe | Bal: 5000)
+- `priya@example.com` (Phone: 9080908090 | UPI: priya@phonepe | Bal: 3000)
+- `rahul@example.com` (Phone: 9080908090 | UPI: rahul@phonepe | Bal: 1500)
+- `neha@example.com` (Phone: 9080908090 | UPI: neha@phonepe | Bal: 8000)
 
 **Global Credentials For these seeded accounts:** 
 - Password: `password123` 
